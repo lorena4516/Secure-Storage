@@ -55,6 +55,14 @@ Sistema web para la gestión segura de archivos con control de cuotas, restricci
   1. Creacion de base de datos
   2. Uso de la misma
   3. Tablas y registros
+
+### Usuario administrador
+Usuario: admin
+Contraseña: password
+
+### Usuario no adm
+Usuario: lmejia
+Contraseña: 1234
  
 ### Clonar el Repositorio
 ```bash
